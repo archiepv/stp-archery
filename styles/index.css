@@ -102,8 +102,20 @@ a:active {
 						width: 700px;
 						height: 700px;
 						margin-left: 2rem;
-						background-color: #7ECEC8;
 					 }
+
+.mapWrapper {
+ 						 padding-bottom: 10%;
+ 						 padding-top: 2em;
+						}
+
+.mapWrapper iframe {
+ 										top: 0;
+ 										left: 10%;
+ 										width: 100%;
+ 										height: 700px;
+ 										border: solid 2px #06BC9B;
+									}
 
 .right-items {
 							font-size: 1rem;
